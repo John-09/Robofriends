@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'android_7regular';
+    src: url('android_7-webfont.woff2') format('woff2'),
+         url('android_7-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1{
+    font-family: 'android_7regular';
+}
